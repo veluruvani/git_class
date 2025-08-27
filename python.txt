@@ -1,6 +1,9 @@
 hello
 vanisree
+<<<<<<< HEAD
 answers
 python librabry
-java livrary
+jaiva livrary
 man
+=======
+>>>>>>> parent of d4eed5d (after reset)
